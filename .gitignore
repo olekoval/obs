@@ -1,0 +1,20 @@
+# --- Специфічні файли Obsidian ---
+# Ігноруємо файл стану робочого простору (курсор, відкриті вкладки тощо)
+# Це головне джерело конфліктів у Git
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Ігноруємо кеш та тимчасові мітки
+.obsidian/last-update.json
+.obsidian/graph.json
+
+# Ігноруємо локальні налаштування плагіна Git (час останнього бекапу тощо)
+.obsidian/plugins/obsidian-git/data.json
+
+# --- Системні файли ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Файли операційної системи в папках (необов'язково, але корисно) ---
+.trash/
