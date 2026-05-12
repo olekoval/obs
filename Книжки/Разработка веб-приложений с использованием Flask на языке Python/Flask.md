@@ -1,3 +1,4 @@
+#flask 
 # Разработка веб-приложений с использованием Flask на языке Python
 [[Разработка веб-приложений с использованием Flask на языке Python  2014.pdf|книжка pdf]]
 
@@ -19,3 +20,6 @@
 - **Jinja (шаблонізатор):** [https://jinja.palletsprojects.com/](https://jinja.palletsprojects.com/)
     
 - **Werkzeug (WSGI бібліотека):** [https://werkzeug.palletsprojects.com/](https://werkzeug.palletsprojects.com/)
+## Flask-WTF (Класи форм)
+[Документація](https://flask-wtf.readthedocs.io/en/1.2.x/quickstart/#creating-forms)
+[Поля форми](https://wtforms.readthedocs.io/en/stable/fields/)

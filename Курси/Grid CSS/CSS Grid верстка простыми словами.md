@@ -1,6 +1,8 @@
 #youtube
+файли на ноутбуке (НСЗУ):  ** "C:\Users\oleh.koval\Desktop\css_grid" **
+
 [[Навчання]]  Курс на YouTube:
 # CSS Grid верстка
 -  [CSS Grid верстка простыми словами, часть 1. Базовая терминология](https://www.youtube.com/watch?v=01SzD20gJUU&list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD)
--  [CSS Grid верстка простыми словами, часть 2. Базовые возможности](https://www.youtube.com/watch?v=hhAhr1y_H5o&list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&index=2) [stop](https://youtu.be/hhAhr1y_H5o?list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&t=707)
-
+-  [CSS Grid верстка простыми словами, часть 2. Базовые возможности](https://www.youtube.com/watch?v=hhAhr1y_H5o&list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD&index=2)
+-  [CSS Grid простыми словами, часть 3. Шаблоны и фракции](https://youtu.be/nZkNA5JUu4g?list=PLiZoB8JBsdzk7yebGLJSgZiGXty6YDPBD)
