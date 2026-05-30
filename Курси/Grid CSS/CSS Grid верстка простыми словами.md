@@ -1,4 +1,11 @@
 #youtube
+
+https://cssgridgarden.com/#ru
+- grid-column (1-11)
+- grid-row (12-15)
+- grid-area (16-17)
+- order (18 - )
+
 файли на ноутбуке (НСЗУ):  ** "C:\Users\oleh.koval\Desktop\css_grid" **
 
 [[Навчання]]  Курс на YouTube:
