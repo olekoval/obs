@@ -1,0 +1,1 @@
+17 відкритих безкоштовних офіціальних курса по Claude [Anthropic](https://anthropic.skilljar.com/)
