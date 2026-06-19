@@ -1,0 +1,1 @@
+[Посилання на документацію Rich](https://rich.readthedocs.io/en/stable/appendix/colors.html#appendix-colors)

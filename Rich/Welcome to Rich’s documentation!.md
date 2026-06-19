@@ -1,0 +1,1 @@
+[Головна сторінка](https://rich.readthedocs.io/en/stable/index.html#welcome-to-rich-s-documentation)
