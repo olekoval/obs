@@ -1,0 +1,1 @@
+[Документація](https://mermaid.js.org/syntax/gitgraph.html)
