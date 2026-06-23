@@ -1,0 +1,1 @@
+[Документація](https://bootstrap-flask.readthedocs.io/en/stable/)
