@@ -2,6 +2,7 @@
 tags:
   - python
   - flask
+  - flask-wtf
 type: Книга
 ---
 # Разработка веб-приложений с использованием Flask на языке Python
@@ -26,5 +27,7 @@ type: Книга
     
 - **Werkzeug (WSGI бібліотека):** [https://werkzeug.palletsprojects.com/](https://werkzeug.palletsprojects.com/)
 ## Flask-WTF (Класи форм)
+[Документація по формам повна](https://flask-wtf.readthedocs.io/en/1.2.x/)
 [Документація](https://flask-wtf.readthedocs.io/en/1.2.x/quickstart/#creating-forms)
+
 [Поля форми](https://wtforms.readthedocs.io/en/stable/fields/)
