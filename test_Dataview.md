@@ -1,5 +1,4 @@
 ```dataview
-table file.name, file.ctime
-sort file.ctime desc
-limit 10
+table file.name, file.ctime, file.mtime, tags
+from "ТЗ"
 ```
