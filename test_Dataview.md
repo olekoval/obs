@@ -1,4 +1,4 @@
 ```dataview
-table file.name, file.ctime, file.mtime, tags
-from "ТЗ"
+table tags
+from "Python Pandas на практике"
 ```
