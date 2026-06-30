@@ -2,6 +2,7 @@
 tags:
   - htmx
   - курси
+url: https://itproger.com/ua
 ---
 
 [Курс по HTMX урок 2](https://itproger.com/ua/course/htmx/2)
