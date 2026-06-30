@@ -5,6 +5,9 @@ tags:
   - html
 ---
 
+
+
+# Атрибути hx-
 ## hx-get hx-target hx-swap [[HTMX]]
 ![[Gemini_button-hx.png]]
 ## Повіднка кнопки усередині <form>
