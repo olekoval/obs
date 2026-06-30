@@ -7,4 +7,4 @@ tags:
 
 ## hx-get hx-target hx-swap [[HTMX]]
 ![[button-hx.jpg]]
-
+## Повіднка кнопки усередині 
