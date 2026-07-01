@@ -14,4 +14,4 @@ url: https://itproger.com/ua
 [Курс по HTMX урок 7](https://itproger.com/ua/course/htmx/7)
 [Курс по HTMX урок 8](https://itproger.com/ua/course/htmx/8)
 
-Stop: урок 6
+Stop: урок 7
