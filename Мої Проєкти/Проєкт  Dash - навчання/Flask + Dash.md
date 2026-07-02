@@ -1,10 +1,16 @@
+---
+tags:
+  - flask
+  - dash
+---
 
+# Сумісна робота Dash всередині Flask
 ```python
 # ==========================================
 # 1. ІМПОРТИ (Блок з "Flask_Dash_2.json")
 # ==========================================
 from flask import Flask, render_template_string 
-from dash import Dash, html, dcc, callback, Input, Output  # Додано callback, Input, Output
+from dash import Dash, html, dcc, callback, Input, Output  
 
 # ==========================================
 # 2. ІНІЦІАЛІЗАЦІЯ ДОДАТКІВ
@@ -33,7 +39,7 @@ app.layout = html.Div([  #
 # ==========================================
 # 4. МАРШРУТИ FLASK (@server.route)
 # ==========================================
-@server.route('/')  #[cite: 2]
+@server.route('/') 
 def index():
     return render_template_string('''
         <h1>Головна сторінка Flask проєкту</h1>
@@ -45,7 +51,7 @@ def index():
 # ==========================================
 # 5. КОЛБЕКИ DASH (@callback)
 # ==========================================
-@callback(  #[cite: 2]
+@callback(  
     Output("dash-output", "children"),
     Input("dash-btn", "n_clicks"),
     prevent_initial_call=True
@@ -56,6 +62,6 @@ def update_dash_ui(n_clicks):
 # ==========================================
 # 6. ЗАПУСК СЕРВЕРА
 # ==========================================
-if __name__ == '__main__':  #[cite: 2]
-    server.run(debug=True, port=5000)  #[cite: 2]
+if __name__ == '__main__':  
+    server.run(debug=True, port=5000) 
 ```
