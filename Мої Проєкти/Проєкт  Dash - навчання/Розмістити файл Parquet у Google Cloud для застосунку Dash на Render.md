@@ -1,0 +1,6 @@
+---
+tags:
+  - dash
+---
+
+[Відповідь від Google Cloud](https://cloud.google.com/solution-generator/C7_OvcfJeY5Apr0nQnFcUQc0qwjRYfkneHEbD4H0_MqjNGSgn-G26A==?utm_source=google&utm_medium=cpc&utm_campaign=Cloud-SS-DR-GCP-1713666-GCP-DR-EMEA-UA-uk-Google-BKWS-BRO-na&utm_content=c-Hybrid+%7C+BKWS+-+BRO+%7C+Txt+-+Infrastructure-Storage-Cloud+Storage-11012518454&utm_term=google+cloud+storage&gclsrc=aw.ds&gad_source=1&gad_campaignid=23794299480&gclid=CjwKCAjwu53SBhAhEiwAJzSLNnaHt1vCf3puoIUpUZVAtuXuPiiG8OxoVzQ4gdFCTyKX1ID6JPE0gBoC9Y0QAvD_BwE&q=I+need+to+host+a+Parquet+data+file+in+Google+Cloud+Storage+%28GCS%29+to+be+accessed+by+a+Dash+application+deployed+on+Render.&bqc=1&attributed_url=https%3A%2F%2Fcloud.google.com%2Fproducts%2Fstorage%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3DCloud-SS-DR-GCP-1713666-GCP-DR-EMEA-UA-uk-Google-BKWS-BRO-na%26utm_content%3Dc-Hybrid%2B%257C%2BBKWS%2B-%2BBRO%2B%257C%2BTxt%2B-%2BInfrastructure-Storage-Cloud%2BStorage-11012518454%26utm_term%3Dgoogle%2Bcloud%2Bstorage%26gclsrc%3Daw.ds%26gad_source%3D1%26gad_campaignid%3D23794299480%26gclid%3DCjwKCAjwu53SBhAhEiwAJzSLNnaHt1vCf3puoIUpUZVAtuXuPiiG8OxoVzQ4gdFCTyKX1ID6JPE0gBoC9Y0QAvD_BwE)
