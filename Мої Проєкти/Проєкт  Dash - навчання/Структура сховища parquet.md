@@ -17,3 +17,13 @@ my_dash_app/
 ```sql
 SELECT event_id, metric, year, month FROM 'data/healthcare_events/**/*.parquet' WHERE year = 2026 AND month = '01';
 ```
+```python
+query = """
+SELECT edrpou, COUNT(*)
+  FROM './data/events/**/*.parquet'
+ WHERE month IN ('01', '02') 
+ GROUP BY edrpou 
+"""
+df_count = duckdb.query(query).to_df()
+
+```
