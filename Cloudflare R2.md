@@ -7,6 +7,7 @@ tags:
 
 Account: myibmcloud
 Назва bucket: prodjecks-dash-events
+Token name: purple-unit-24e9
 
 
 
