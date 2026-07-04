@@ -63,4 +63,4 @@ tags:
 
 
 
-[Google Drive](https://drive.google.com/file/d/1vlfhcxdEYhOVYj9VMzhjps9uLfJ43aWL/view?usp=drive_link)
+[Google Drive схеми](https://drive.google.com/file/d/1vlfhcxdEYhOVYj9VMzhjps9uLfJ43aWL/view?usp=drive_link)
