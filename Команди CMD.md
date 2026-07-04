@@ -9,3 +9,4 @@ tags:
 | Копіювати папку                          | robocopy | robocopy "шлях\_до\_джерела" "шлях\_до\_призначення" /E <br> D:\>robocopy events C:\Users\314ko\Desktop\prodject_Dash_events\events /E | `/E` - копіювати всі підпапки (навіть порожні) |
 | Перейменувати файл                       | rename   | rename шлях/старе\_ім'я нове_ім'я                                                                                                      |                                                |
 | Створення файлу та додавання рядка текса | echo     | echo Привіт > file.txt        REM створює/перезаписує файл<br>echo Ще рядок >> file.txt     REM додає рядок в кінець файлу             | echo. Виводить порожній рядок                  |
+| Створити файл та відкрити у блокноті     | notepad  | notepad README.md                                                                                                                      |                                                |
