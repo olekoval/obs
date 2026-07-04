@@ -4,9 +4,11 @@ tags:
   - prodject
 ---
 [Cloudflare R2 сайт](https://www.cloudflare.com/ru-ru/pg-cloudflare-r2-vs-aws-s3/)
-myibmcloud
+
+Account: myibmcloud
+Назва bucket: prodjecks-dash-events
 
 
 
 
-![[моя архітектура dash додатку.png]]
+
