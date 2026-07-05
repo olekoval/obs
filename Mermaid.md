@@ -6,7 +6,7 @@ Both standard (`├──`, `└──`, `│`) and heavy (`┣━━`, `┗�
 
 
 
-```mremaid
+```text
 prodject/
 ├── app.py
 └── pages/
@@ -16,4 +16,10 @@ prodject/
 		...
 		└── pagesN.py
 
+```
+
+```mermaid
+treeView-beta
+             "app.py" 
+             "build"
 ```
