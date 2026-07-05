@@ -1,6 +1,10 @@
 [Документація](https://mermaid.js.org/syntax/gitgraph.html)
 
-##
+## TreeView
+
+Both standard (`├──`, `└──`, `│`) and heavy (`┣━━`, `┗━━`, `┃`) Unicode variants are supported
+
+
 
 ```mremaid
 prodject/
