@@ -8,6 +8,8 @@ tags:
 
 [Офіційна документація # Multi-Page Apps and URL Support](https://dash.plotly.com/urls)
 
+Шлях до папки з розбором прикладів: C:\Users\314ko\Desktop\dash_multy-pages
+
 Ось як виглядає правильна структура такого проєкту:
 
 ### 📁 Структура файлів у вашому проєкті:
