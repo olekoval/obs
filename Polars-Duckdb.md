@@ -5,13 +5,13 @@ tags:
   - python
 ---
 [[Polars_cheat_sheet.pdf]]
-[Документація](https://docs.pola.rs/)
+[Документація polars](https://docs.pola.rs/)
 [Статя по використанню Polars у Dash](https://plotly.com/blog/polars-to-build-fast-dash-apps-for-large-datasets/)
 
-
+## Схема з Polars
 ![[Data-flow-DASH-POLARS-PARQUET.png]]
 
-## Приклад використання
+## Приклад використання polars
 ```python
 import dash
 from dash import Html, Dcc, Input, Output
