@@ -7,7 +7,7 @@ tags:
 
 Account: myibmcloud
 
-R2 Object Storage: p
+R2 Object Storage: prodjecks-dash-events
 
 
 
