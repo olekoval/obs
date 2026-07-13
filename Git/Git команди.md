@@ -6,4 +6,9 @@ git checkout e5f6g7h
   ```shell
   git checkout main
   ```
+- створити нову гілку та перейти на нею
+  ```shell
+  git branch testing
+  git chekout testing
+  ```
   
