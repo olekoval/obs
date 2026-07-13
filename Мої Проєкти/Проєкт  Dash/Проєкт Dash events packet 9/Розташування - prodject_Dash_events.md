@@ -17,3 +17,7 @@ cd Desktop\my_example_py\2026\my\prodject_Dash_events
 ```shell
 cd Desktop\prodject_Dash_events
 ```
+### Запуск додатку
+```shell
+poetry run python app.py
+```
