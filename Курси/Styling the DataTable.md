@@ -1,0 +1,1 @@
+[Стилі для dash_table ](https://dash.plotly.com/datatable/style)

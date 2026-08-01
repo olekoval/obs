@@ -14,3 +14,9 @@ except ImportError:
 setx PYTHONSTARTUP "C:\Users\oleh.koval\Desktop\my_example_py\python_profile.py"
 ```
 Де шлях це шлях до збереженого файлу python_profile.py
+
+Консольна справка:
+
+```shall
+python -m rich
+```
