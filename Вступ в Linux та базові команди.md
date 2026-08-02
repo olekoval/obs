@@ -1,0 +1,1 @@
+[Базові команди](https://thehost.ua/ua/wiki/administration/basics/linux)
