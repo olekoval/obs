@@ -1,0 +1,1 @@
+"C:\Users\oleh.koval\AppData\Local\Programs\Vim\vim.exe"
