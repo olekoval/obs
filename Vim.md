@@ -8,3 +8,4 @@
 https://vimdoc.sourceforge.net/htmldoc/usr_01.html#vimtutor
 
 
+04.08.2026 аркуш 31
