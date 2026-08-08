@@ -7,5 +7,7 @@
 7. [[GG Python] UV: управляйте Python-версиями и не только](https://stepik.org/course/235889/promo?search=9702890182)
 8. [FastAPI для начинающих](https://stepik.org/course/263165/promo?search=9702890184)
 9. [Декораторы в Python – от основ до практического применения](https://stepik.org/course/260212/promo?search=9702890206)
-10. 
+10. [Python, matplotlib, pandas: экспресс-курс](https://stepik.org/course/249453/promo?search=9702890242)
+11. [Pytest для Python-разработчиков: Уверенное тестирование](https://stepik.org/course/259625/promo?search=9702890273)
+
 
