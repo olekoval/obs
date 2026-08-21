@@ -3,14 +3,20 @@ tags:
   - курси
   - plotly
 ---
-### Plotly Open Source Graphing Library for Python
+1. ### Plotly Open Source Graphing Library for Python
 [Документація по Plotly](https://plotly.com/python/)
 
-###  plotly.graph_objects.Layout
-[Layout](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Layout.html?highlight=hovermode)
 
+2. ###  plotly.graph_objects.Layout
+	 [Layout](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Layout.html?highlight=hovermode)
 
-1. [Hover-сайт plotly](https://plotly.com/python/hover-text-and-formatting/)
+3. ### [Теми та шаблони в Python](https://plotly.com/python/templates/)
+	- Templates configuration:
+    Default template: 'plotly'
+    Available templates:
+        'ggplot2', 'seaborn', 'simple_white', 'plotly', 'plotly_white', 'plotly_dark', 'presentation', 'xgridoff', 'ygridoff', 'gridon', 'none'
+         
+4. ### [Hover-сайт plotly](https://plotly.com/python/hover-text-and-formatting/)
 
 - <span style="color: yellow;">**hoveranywhere**</span> – Якщо встановлено значення `true`, події `plotly_hover` спрацьовуватимуть для будь-якої позиції курсора в межах області графіка, а не лише над трейсами. Коли курсор не знаходиться над трейсом, подія міститиме порожній масив `points`, але включатиме координати `xvals` і `yvals` у просторі даних.
 
