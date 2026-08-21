@@ -3,8 +3,8 @@ tags:
   - курси
   - plotly
 ---
-
-
+### Plotly Open Source Graphing Library for Python
+[Документація по Plotly](https://plotly.com/python/)
 
 ###  plotly.graph_objects.Layout
 [Layout](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Layout.html?highlight=hovermode)
