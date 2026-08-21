@@ -10,7 +10,7 @@ tags:
 [Layout](https://plotly.com/python-api-reference/generated/plotly.graph_objects.Layout.html?highlight=hovermode)
 
 
-1. [Hover](https://plotly.com/python/hover-text-and-formatting/)
+1. [Hover-сайт plotly](https://plotly.com/python/hover-text-and-formatting/)
 
 - <span style="color: yellow;">**hoveranywhere**</span> – Якщо встановлено значення `true`, події `plotly_hover` спрацьовуватимуть для будь-якої позиції курсора в межах області графіка, а не лише над трейсами. Коли курсор не знаходиться над трейсом, подія міститиме порожній масив `points`, але включатиме координати `xvals` і `yvals` у просторі даних.
 
