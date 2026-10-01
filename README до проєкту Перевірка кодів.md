@@ -100,7 +100,7 @@ poetry run python main.py
 4. Замінює файл лише якщо виявлено зміни — інакше видаляє тимчасовий файл.
 
 ```bash
-poetry run python export _codes.py
+poetry run python export_codes.py
 ```
 
 Очікуваний формат CSV:
