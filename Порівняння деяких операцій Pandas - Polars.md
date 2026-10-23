@@ -3,7 +3,18 @@ tags:
   - polars
   - pandas
 ---
+## Перетворювати датафрейми Pandas на Polars
 
+З Pandas до Polars
+```python
+animals_pl = pl.DataFrame(animals_pd)
+```
+
+З  Polars до Pandas
+```python
+animals_pd = animals_pl.to_pandas()
+```
+## Порівняння деяких операцій
 
 | Дія                                | Pandas                                                           | Polars                                                              |
 | ---------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
