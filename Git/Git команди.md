@@ -10,5 +10,8 @@ git checkout e5f6g7h
   ```shell
   git branch testing
   git chekout testing
+  
+  або в один крок 
+  git checkout -b назва-гілки
   ```
   
