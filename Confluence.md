@@ -6,4 +6,4 @@ tags:
 ....@nszu.gov.ua
 !D...tly$
 
-[Посилання від В Півня]([Page Not Found - Confluence](https://e-health-ua.atlassian.net/wiki/spaces/vqkyz/pages/19670302721))
+[Посилання від В Півня](https://e-health-ua.atlassian.net/wiki/spaces/vqkyz/pages/19670302721)
