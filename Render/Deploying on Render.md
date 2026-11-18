@@ -7,3 +7,14 @@ tags:
 
 
 [Розгортання нового проєкту](https://dashboard.render.com/)
+
+## Основні пункти форми для deploy
+- Build Command: 
+```bash
+$ poetry add gunicorn && poetry install
+```
+- Start Command:
+```bash
+$ poetry run gunicorn main:app
+```
+Де main це назва файла python у проєкті в котрому запускається весь додаток app
