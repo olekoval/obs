@@ -10,3 +10,6 @@ tags:
 - [Сітка Bootstrap](https://getbootstrap.com/docs/5.1/layout/grid/)
 - [NavbarSimple](https://www.dash-bootstrap-components.com/docs/components/navbar/) [Examples Navs](https://www.dash-bootstrap-components.com/docs/components/nav/)
 - [Підключення dash-bootstrap-components до додатку](https://www.dash-bootstrap-components.com/docs/quickstart/)
+
+## Дашборды с использованием шаблонов Dash Bootstrap
+https://www.youtube.com/watch?v=JhGcGNhyQqg
