@@ -13,3 +13,6 @@ tags:
 
 ## Дашборды с использованием шаблонов Dash Bootstrap
 https://www.youtube.com/watch?v=JhGcGNhyQqg
+
+## Сайти шпаргалки по Dash Bootstrap
+- [Теми BOOTSTRA]
