@@ -15,4 +15,4 @@ tags:
 https://www.youtube.com/watch?v=JhGcGNhyQqg
 
 ## Сайти шпаргалки по Dash Bootstrap
-- [Теми BOOTSTRA]
+- [Теми BOOTSTRAP](https://www.youtube.com/redirect?event=video_description&redir_token=QUlxb01IWVZBRFNGWjdSOHpSZVI3bllBZl8tTnxBQnJ0NjlrVUhwSmtVY3FFcGR3T3RtamgzRVpjbW1NVE5WY2k5MGlFZ2l6Rm9acFZnVkhGaDFJOUt1MVB3dEQxM003VXBZdExEN2szQUVCUjluRTdTSklMT2hJQWdLSkd2SkJQ&q=https%3A%2F%2Fhellodash.pythonanywhere.com%2F&v=JhGcGNhyQqg)
