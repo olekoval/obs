@@ -8,3 +8,5 @@ SELECT CONCAT (a.service_number, ' - ', s.name) AS servise
    AND a.packet_number = '6'
 GROUP BY CONCAT (a.service_number, ' - ', s.name)
 ```
+
+[[service_AMB_events.pdf]]
