@@ -3,4 +3,4 @@ tags:
   - vim
 ---
 
-[Devhints](https://devhints.io/)
+[Devhints](https://devhints.io/vim)
