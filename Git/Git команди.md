@@ -1,3 +1,4 @@
+
 -  подивитись минулий commit
 ```shell
 git checkout e5f6g7h
